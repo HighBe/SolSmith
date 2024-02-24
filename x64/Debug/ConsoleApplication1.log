@@ -1,0 +1,7 @@
+﻿  Assembly.cpp
+C:\Users\A\Desktop\paper\CodeGen\Assembly.cpp(61,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\A\Desktop\paper\CodeGen\Assembly.cpp(73,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.cpp
+C:\Users\A\Desktop\paper\CodeGen\ConsoleApplication1.cpp(48,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\A\Desktop\paper\CodeGen\x64\Debug\ConsoleApplication1.exe
